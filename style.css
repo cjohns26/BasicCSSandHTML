@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    line-height: 1.7em;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+    border: 1px sold black;
+}
+
+#box {
+    color: red;
+    background-color: grey;
+    width: 50%;
+}
+
+.bluetext {
+    color: blue;
+}
